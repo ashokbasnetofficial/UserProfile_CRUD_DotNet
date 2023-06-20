@@ -1,19 +1,20 @@
 ﻿using Dotnet_Mvc.Data;
 using Dotnet_Mvc.Models;
 using Microsoft.AspNetCore.Mvc;
-namespace Dotnet_Mvc.Controllers{
-    public class UserProfileController:Controller
+namespace Dotnet_Mvc.Controllers
+{
+    public class UserProfileController : Controller
     {
 
         private readonly ApplicationDbContext _db;
         public UserProfileController(ApplicationDbContext db)
         {
-                _db = db;
+            _db = db;
         }
         public IActionResult Index()
         {
-          //  var userProfile = _db.UserProfile.ToList();
-          List<UserProfile> users = _db.UserProfile.ToList();
+            //  var userProfile = _db.UserProfile.ToList();
+            List<UserProfile> users = _db.UserProfile.ToList();
             return View(users);
         }
         public IActionResult AddUser()
@@ -24,17 +25,50 @@ namespace Dotnet_Mvc.Controllers{
         public IActionResult AddUser(UserProfile obj)
 
         {
-            _db.UserProfile.Add(obj);
-            _db.SaveChanges();
-            return RedirectToAction("Index");
+            if (ModelState.IsValid)//it check the weather model is valid or not  for a input
+            {
+                _db.UserProfile.Add(obj);
+                _db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View();
         }
         public IActionResult Delete()
         {
             return View();
         }
-        public IActionResult Update()
+        public IActionResult Update(int? id)
+
         {
-            return View();
+            if (id == null || id == 0)
+            {
+                return NotFound();
+            }
+            UserProfile? userData = _db.UserProfile.Find(id);
+            UserProfile? user = _db.UserProfile.FirstOrDefault(x => x.Id == id);
+            UserProfile? user1 = _db.UserProfile.Where(x => x.Id == id).FirstOrDefault();
+            if (userData == null)
+            {
+                return NotFound();
+            }
+            return View(userData);
         }
+        [HttpPost]
+        public IActionResult Update(UserProfile user)
+        {  
+
+            if (ModelState.IsValid)//it check the weather model is valid or not  for a input
+            { 
+                _db.UserProfile.Update(user);
+                _db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View();
+        }  
+      
+
+
     }
 }
+
+
