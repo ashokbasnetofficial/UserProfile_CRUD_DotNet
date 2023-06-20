@@ -1,5 +1,12 @@
 ﻿@model List<UserProfile>
 <div class="container">
+    <div class="d-flex justify-content-sm-end">
+       
+        <a asp-controller="UserProfile" asp-action="AddUser" class="btn btn-primary d-flex">
+            <i class="bi bi-plus-circle px-2"></i>
+            <span>Add User</span>
+            </a>
+    </div>
     <table class="table table-striped">
         <thead>
             <tr>
@@ -8,6 +15,7 @@
                 <th>Phone Number</th>
                 <th>Email</th>
                 <th>Job Title</th>
+                <th>Action</th>
             </tr>
         </thead>
         <tbody>
@@ -19,6 +27,19 @@
                     <td>@user.PhoneNumber</td>
                     <td>@user.EmailAddress</td>
                     <td>@user.JobTitle</td>
+                    <td>
+                        <div class="d-flex">
+
+                            <a asp-action="Update" asp-controller="UserProfile"  class="btn btn-warning d-flex mx-2">
+                                <i class="bi bi-pencil px-2"></i>
+                                <span>Edit</span>
+                            </a>
+                            <a asp-action="Update" asp-controller="UserProfile" class="btn btn-danger d-flex">
+                                <i class="bi bi-trash px-2"></i>
+                                <span>Delete</span>
+                            </a>
+                        </div>
+                    </td>
                 </tr>
             }
         </tbody>

@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="Views\UserProfile\Create.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.0">
       <PrivateAssets>all</PrivateAssets>
@@ -17,6 +21,18 @@
 
   <ItemGroup>
     <Folder Include="Views\NewFolder\NewFolder\NewFolder\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Views\UserProfile\Create.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Views\UserProfile\Create.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\UserProfile\Create.cshtml" />
   </ItemGroup>
 
 </Project>

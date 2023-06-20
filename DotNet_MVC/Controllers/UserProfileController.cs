@@ -16,5 +16,25 @@ namespace Dotnet_Mvc.Controllers{
           List<UserProfile> users = _db.UserProfile.ToList();
             return View(users);
         }
+        public IActionResult AddUser()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult AddUser(UserProfile obj)
+
+        {
+            _db.UserProfile.Add(obj);
+            _db.SaveChanges();
+            return RedirectToAction("Index");
+        }
+        public IActionResult Delete()
+        {
+            return View();
+        }
+        public IActionResult Update()
+        {
+            return View();
+        }
     }
 }
