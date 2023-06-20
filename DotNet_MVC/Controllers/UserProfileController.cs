@@ -1,6 +1,8 @@
 ﻿using Dotnet_Mvc.Data;
 using Dotnet_Mvc.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+
 namespace Dotnet_Mvc.Controllers
 {
     public class UserProfileController : Controller
@@ -33,9 +35,13 @@ namespace Dotnet_Mvc.Controllers
             }
             return View();
         }
-        public IActionResult Delete()
+        public IActionResult Delete(int? id)
+
         {
-            return View();
+        UserProfile? user = _db.UserProfile.FirstOrDefault(x => x.Id == id);
+            _db.UserProfile.Remove(user);
+            _db.SaveChanges(true);
+            return RedirectToAction("Index");
         }
         public IActionResult Update(int? id)
 
