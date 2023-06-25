@@ -4,14 +4,14 @@
     "E:\\Dotnet\\Dotnet_Mvc\\Dotnet_Mvc.csproj": {}
   },
   "projects": {
-    "E:\\Dotnet\\Dotnet_Mvc\\Dotnet_Mvc.csproj": {
+    "E:\\Dotnet\\Dotnet_Mvc.DataAccess\\Dotnet_Mvc.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Dotnet\\Dotnet_Mvc\\Dotnet_Mvc.csproj",
-        "projectName": "Dotnet_Mvc",
-        "projectPath": "E:\\Dotnet\\Dotnet_Mvc\\Dotnet_Mvc.csproj",
+        "projectUniqueName": "E:\\Dotnet\\Dotnet_Mvc.DataAccess\\Dotnet_Mvc.DataAccess.csproj",
+        "projectName": "Dotnet_Mvc.DataAccess",
+        "projectPath": "E:\\Dotnet\\Dotnet_Mvc.DataAccess\\Dotnet_Mvc.DataAccess.csproj",
         "packagesPath": "C:\\Users\\97798\\.nuget\\packages\\",
-        "outputPath": "E:\\Dotnet\\Dotnet_Mvc\\obj\\",
+        "outputPath": "E:\\Dotnet\\Dotnet_Mvc.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\97798\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,13 +22,19 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Dotnet\\DotNet_Mvc.Utility\\DotNet_Mvc.Utility.csproj": {
+                "projectPath": "E:\\Dotnet\\DotNet_Mvc.Utility\\DotNet_Mvc.Utility.csproj"
+              },
+              "E:\\Dotnet\\DotNet_Mvs.Models\\DotNet_Mvc.Models.csproj": {
+                "projectPath": "E:\\Dotnet\\DotNet_Mvs.Models\\DotNet_Mvc.Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -68,9 +74,199 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Dotnet\\DotNet_Mvc.Utility\\DotNet_Mvc.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Dotnet\\DotNet_Mvc.Utility\\DotNet_Mvc.Utility.csproj",
+        "projectName": "DotNet_Mvc.Utility",
+        "projectPath": "E:\\Dotnet\\DotNet_Mvc.Utility\\DotNet_Mvc.Utility.csproj",
+        "packagesPath": "C:\\Users\\97798\\.nuget\\packages\\",
+        "outputPath": "E:\\Dotnet\\DotNet_Mvc.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\97798\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Dotnet\\Dotnet_Mvc\\Dotnet_Mvc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Dotnet\\Dotnet_Mvc\\Dotnet_Mvc.csproj",
+        "projectName": "Dotnet_Mvc",
+        "projectPath": "E:\\Dotnet\\Dotnet_Mvc\\Dotnet_Mvc.csproj",
+        "packagesPath": "C:\\Users\\97798\\.nuget\\packages\\",
+        "outputPath": "E:\\Dotnet\\Dotnet_Mvc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\97798\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Dotnet\\Dotnet_Mvc.DataAccess\\Dotnet_Mvc.DataAccess.csproj": {
+                "projectPath": "E:\\Dotnet\\Dotnet_Mvc.DataAccess\\Dotnet_Mvc.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Dotnet\\DotNet_Mvs.Models\\DotNet_Mvc.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Dotnet\\DotNet_Mvs.Models\\DotNet_Mvc.Models.csproj",
+        "projectName": "DotNet_Mvc.Models",
+        "projectPath": "E:\\Dotnet\\DotNet_Mvs.Models\\DotNet_Mvc.Models.csproj",
+        "packagesPath": "C:\\Users\\97798\\.nuget\\packages\\",
+        "outputPath": "E:\\Dotnet\\DotNet_Mvs.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\97798\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

@@ -1,0 +1,47 @@
+﻿@model List<Category>
+<div class="container">
+    <partial name ="notification"/>
+    <div class="d-flex justify-content-sm-end">
+       
+        <a asp-action="Create" asp-controller="Category" class="btn btn-primary d-flex">
+            <i class="bi bi-plus-circle px-2"></i>
+            <span>Add Products</span>
+            </a>
+    </div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Product Name</th>
+                <th>Description</th>
+                <th>Price</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var product in Model.OrderBy(x=>x.Id))
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.Name</td>
+                    <td>@product.Description</td>
+                    <td>@product.Price</td>
+                   
+                    <td>
+                        <div class="d-flex">
+
+                            <a asp-action="Update" asp-controller="Category" asp-route-id="@product.Id" class="btn btn-warning d-flex mx-2">
+                                <i class="bi bi-pencil px-2"></i>
+                                <span>Edit</span>
+                            </a>
+                            <a asp-action="Delete" asp-controller="Category" asp-route-id="@product.Id" class="btn btn-danger d-flex">
+                                <i class="bi bi-trash px-2"></i>
+                                <span>Delete</span>
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

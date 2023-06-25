@@ -1,0 +1,48 @@
+﻿@model List<UserProfile>
+<div class="container">
+    <partial name ="notification"/>
+    <div class="d-flex justify-content-sm-end">
+       
+        <a asp-controller="UserProfile" asp-action="AddUser" class="btn btn-primary d-flex">
+            <i class="bi bi-plus-circle px-2"></i>
+            <span>Add User</span>
+            </a>
+    </div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Full Name</th>
+                <th>Phone Number</th>
+                <th>Email</th>
+                <th>Job Title</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var user in Model.OrderBy(x=>x.Id))
+            {
+                <tr>
+                    <td>@user.Id</td>
+                    <td>@user.FullName</td>
+                    <td>@user.PhoneNumber</td>
+                    <td>@user.EmailAddress</td>
+                    <td>@user.JobTitle</td>
+                    <td>
+                        <div class="d-flex">
+
+                            <a asp-action="Update" asp-controller="UserProfile" asp-route-id="@user.Id" class="btn btn-warning d-flex mx-2">
+                                <i class="bi bi-pencil px-2"></i>
+                                <span>Edit</span>
+                            </a>
+                            <a asp-action="Delete" asp-controller="UserProfile" asp-route-id="@user.Id" class="btn btn-danger d-flex">
+                                <i class="bi bi-trash px-2"></i>
+                                <span>Delete</span>
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

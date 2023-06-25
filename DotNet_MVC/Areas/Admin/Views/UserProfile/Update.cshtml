@@ -1,0 +1,37 @@
+﻿@model UserProfile;
+<form method="post">
+    <fieldset>
+        <legend>Update</legend>
+        <div class="form-group">
+            <label for="exampleInputPassword1" class="form-label mt-4">Full Name</label>
+            <input asp-for="FullName" type="text" class="form-control" id="password" placeholder="Full Name">
+
+        </div>
+        <div class="form-group">
+            <label for="phonenumber" class="form-label mt-4">Phone Number</label>
+            <input asp-for="PhoneNumber" type="text" class="form-control" id="phonenumber" placeholder="Phone Number">
+
+
+        </div>
+        <div class="form-group">
+            <label for="email" class="form-label mt-4">Email Address</label>
+            <input asp-for="EmailAddress" type="text" class="form-control" id="email" placeholder="Email Address">
+
+        </div>
+        <div class="form-group">
+            <label for="exampleInputPassword1" class="form-label mt-4">Job Title</label>
+            <input asp-for="JobTitle" type="text" class="form-control" id="job" placeholder="Job Title">
+
+        </div>
+
+    </fieldset>
+    <div class="d-flex align-items-center justify-content-start">
+        <a asp-controller="UserProfile" asp-action="Index" class="btn btn-primary  mt-5 mx-3"> <i class="bi bi-arrow-left-short"></i> Back</a>
+        <button type="submit" class="btn btn-primary mt-5">Update</button>
+    </div>
+</form>
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

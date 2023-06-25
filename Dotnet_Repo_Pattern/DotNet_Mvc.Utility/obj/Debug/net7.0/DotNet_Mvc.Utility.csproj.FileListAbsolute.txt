@@ -1,0 +1,12 @@
+E:\DotNet\DotNet_Mvc.Utility\bin\Debug\net7.0\DotNet_Mvc.Utility.deps.json
+E:\DotNet\DotNet_Mvc.Utility\bin\Debug\net7.0\DotNet_Mvc.Utility.dll
+E:\DotNet\DotNet_Mvc.Utility\bin\Debug\net7.0\DotNet_Mvc.Utility.pdb
+E:\DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\DotNet_Mvc.Utility.csproj.AssemblyReference.cache
+E:\DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\DotNet_Mvc.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\DotNet_Mvc.Utility.AssemblyInfoInputs.cache
+E:\DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\DotNet_Mvc.Utility.AssemblyInfo.cs
+E:\DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\DotNet_Mvc.Utility.csproj.CoreCompileInputs.cache
+E:\DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\DotNet_Mvc.Utility.dll
+E:\DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\refint\DotNet_Mvc.Utility.dll
+E:\DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\DotNet_Mvc.Utility.pdb
+E:\DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\ref\DotNet_Mvc.Utility.dll

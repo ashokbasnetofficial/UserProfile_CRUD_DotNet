@@ -1,0 +1,41 @@
+﻿@model UserProfile;
+<form method="post" >
+    <fieldset>
+        <legend>Add User Details</legend>
+        <div class="form-group">
+            <label asp-for="FullName" class="form-label mt-4"></label>
+            <input asp-for="FullName" type="text" class="form-control"  id="password" placeholder="Full Name">
+            <span asp-validation-for="FullName" class="text-danger"></span>
+
+        </div>
+        <div class="form-group">
+            <label asp-for="PhoneNumber" class="form-label mt-4"></label>
+            <input asp-for="PhoneNumber" type="text" class="form-control"  id="phonenumber" placeholder="Phone Number">
+            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+
+        </div>
+        <div class="form-group">
+            <label asp-for="EmailAddress" class="form-label mt-4"></label>
+            <input asp-for="EmailAddress" type="text" class="form-control"  id="email" placeholder="Email Address">
+            <span asp-validation-for="EmailAddress" class="text-danger"></span>
+
+        </div>
+        <div class="form-group">
+            <label asp-for="JobTitle" class="form-label mt-4"></label>
+            <input asp-for="JobTitle" type="text" class="form-control"  id="job" placeholder="Job Title">
+            <span asp-validation-for="JobTitle" class="text-danger"></span>
+
+        </div>
+
+   
+   <div class="d-flex align-items-center justify-content-start">
+        <a asp-controller="UserProfile" asp-action="Index" class="btn btn-primary  mt-5 mx-3"> <i class="bi bi-arrow-left-short"></i> Back</a>
+        <button type="submit" class="btn btn-primary mt-5">Submit</button>
+        </div>
+    </fieldset>
+</form>
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

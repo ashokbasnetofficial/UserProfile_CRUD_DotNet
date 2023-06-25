@@ -1,0 +1,12 @@
+E:\DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\DotNet_Mvc.Models.csproj.AssemblyReference.cache
+E:\DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\DotNet_Mvc.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\DotNet_Mvc.Models.AssemblyInfoInputs.cache
+E:\DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\DotNet_Mvc.Models.AssemblyInfo.cs
+E:\DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\DotNet_Mvc.Models.csproj.CoreCompileInputs.cache
+E:\DotNet\DotNet_Mvs.Models\bin\Debug\net7.0\DotNet_Mvc.Models.deps.json
+E:\DotNet\DotNet_Mvs.Models\bin\Debug\net7.0\DotNet_Mvc.Models.dll
+E:\DotNet\DotNet_Mvs.Models\bin\Debug\net7.0\DotNet_Mvc.Models.pdb
+E:\DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\DotNet_Mvc.Models.dll
+E:\DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\refint\DotNet_Mvc.Models.dll
+E:\DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\DotNet_Mvc.Models.pdb
+E:\DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\ref\DotNet_Mvc.Models.dll
