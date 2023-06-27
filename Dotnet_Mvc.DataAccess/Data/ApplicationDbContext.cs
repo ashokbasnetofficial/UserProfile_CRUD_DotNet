@@ -11,7 +11,8 @@ namespace Dotnet_Mvc.DataAccess.Data
 
         }
         public DbSet<UserProfile> UserProfile { get; set; }
-        public DbSet<Category> Categories { get; set; }
+        public DbSet<Products> Products { get; set; }
+        public DbSet<Category> Categories { get; set; } 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<UserProfile>().HasData
@@ -25,10 +26,18 @@ namespace Dotnet_Mvc.DataAccess.Data
                 );
 
 
-            modelBuilder.Entity<Category>().HasData
+            modelBuilder.Entity<Products>().HasData
                 (
-                    new Category { Id = 1, Name = "Samsung S22 Ultra", Description = "Samsung S22 Ultra 108mp camera", Price = 1000 }
+                    new Products { Id = 1, Name = "Samsung S22 Ultra", Description = "Samsung S22 Ultra 108mp camera", Price = 1000,CategoryId=1,ImageURl="" }
                 );
+            modelBuilder.Entity<Category>().HasData
+               (
+                   new Category { Id = 1, Name = "Electronic", DisplayOrder=1 },
+                    new Category { Id = 2, Name = "Laptop", DisplayOrder = 2 },
+                    new Category { Id = 3, Name = "Clothing", DisplayOrder = 3},
+                    new Category { Id = 4, Name = "Foot Wear", DisplayOrder = 4}
+
+               );
 
         }
     }

@@ -11,8 +11,8 @@ namespace Dotnet_Mvc.Areas.Admin.Controllers
     public class UserProfileController : Controller
     {
 
-        private readonly ICategoryRepository _categoryRepo;
-        public UserProfileController(ICategoryRepository db)
+        private readonly IUserRepository _categoryRepo;
+        public UserProfileController(IUserRepository db)
         {
             _categoryRepo = db;
         }

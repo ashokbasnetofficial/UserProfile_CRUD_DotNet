@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Dotnet_Mvc.DataAccess.Repository.IRepositroy
 {
-    public interface ICategoryRepository: IRepository<UserProfile>
+    public interface ICategoryRepository:IRepository<Category>
     {
-        public void Update(UserProfile obj);
+        public void Update(Category obj);
         public void Save();
     }
 }

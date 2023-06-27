@@ -4,29 +4,29 @@ using DotNet_Mvc.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Dotnet_Mvc.DataAccess.Repository
 {
-    public class CategoryRepository :Repoistory<UserProfile>, ICategoryRepository
+    public class CategoryRepository : Repoistory<Category>, ICategoryRepository
+
+       
     {
-        private ApplicationDbContext _db;
-        public CategoryRepository(ApplicationDbContext db) :base(db) 
+        private readonly ApplicationDbContext _db;
+        public CategoryRepository(ApplicationDbContext db):base(db)
         {
+        _db= db;
 
-            _db = db;
         }
-
         public void Save()
         {
-           _db.SaveChanges();
+            _db.SaveChanges();
         }
 
-        public void Update(UserProfile obj)
+        public void Update(Category obj)
         {
-              _db.Update(obj);
+            _db.Update(obj);
         }
     }
 }

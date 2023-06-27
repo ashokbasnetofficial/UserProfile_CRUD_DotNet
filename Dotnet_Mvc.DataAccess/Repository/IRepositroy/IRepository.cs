@@ -9,8 +9,8 @@ namespace Dotnet_Mvc.DataAccess.Repository.IRepositroy
 {
     public interface IRepository<T> where T : class
     {
-        IEnumerable<T> GetAll();
-        T Get(Expression<Func<T,bool>> filter);
+        IEnumerable<T> GetAll(string? includeProperties = null);
+        T Get(Expression<Func<T,bool>> filter, string? includeProperties = null);
         void Add(T item);
         void Remove(T item);
         void RemoveRange(IEnumerable<T> item);

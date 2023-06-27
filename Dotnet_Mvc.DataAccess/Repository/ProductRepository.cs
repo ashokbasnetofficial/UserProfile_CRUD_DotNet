@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Dotnet_Mvc.DataAccess.Repository
 {
-    public class ProductRepository : Repoistory<Category>, IProductsRepository
+    public class ProductRepository : Repoistory<Products>, IProductsRepository
 
        
     {
@@ -24,9 +24,21 @@ namespace Dotnet_Mvc.DataAccess.Repository
             _db.SaveChanges();
         }
 
-        public void Update(Category obj)
+        public void Update(Products obj)
         {
-            _db.Update(obj);
+           var productItem = _db.Products.FirstOrDefault(u=>u.Id == obj.Id);    
+            if (productItem != null)
+            {
+                productItem.Id = obj.Id;
+                productItem.Name = obj.Name;    
+                productItem.Description = obj.Description;
+                productItem.Price = obj.Price;  
+                if(obj.ImageURl != null)
+                {
+                    productItem.ImageURl= obj.ImageURl; 
+                }
+            }
+
         }
     }
 }

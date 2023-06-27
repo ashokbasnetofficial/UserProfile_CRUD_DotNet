@@ -12,20 +12,17 @@ namespace Dotnet_Mvc.Areas.Admin.Controllers
     public class CategoryController : Controller
 
     {
-        private readonly IProductsRepository _productRepo;
-        public CategoryController(IProductsRepository db)
+        private readonly ICategoryRepository _CategoryRepo;
+        public CategoryController(ICategoryRepository db)
         {
-            _productRepo = db;
+            _CategoryRepo = db;
         }
+      
         public IActionResult Index()
-        {
-            return View();
-        }
-        public IActionResult Add()
 
         {
-            List<Category> products = _productRepo.GetAll().ToList();
-            return View(products);
+            List<Category> categories = _CategoryRepo.GetAll().ToList();
+            return View(categories);
         }
         public IActionResult Create()
         {
@@ -37,11 +34,11 @@ namespace Dotnet_Mvc.Areas.Admin.Controllers
             if(ModelState.IsValid)
             {
 
-            _productRepo.Add(obj);
-             _productRepo.Save();
+            _CategoryRepo.Add(obj);
+             _CategoryRepo.Save();
 
 
-            return RedirectToAction("Add");
+            return RedirectToAction("Index");
 
             }
             return View();
@@ -51,7 +48,7 @@ namespace Dotnet_Mvc.Areas.Admin.Controllers
         {
             if (id!=null)
             {
-                Category category = _productRepo.Get(product => product.Id == id);
+                Category category = _CategoryRepo.Get(Category => Category.Id == id);
                 if (category != null)
                 {
                     return View(category);
@@ -64,13 +61,13 @@ namespace Dotnet_Mvc.Areas.Admin.Controllers
 
         }
         [HttpPost]
-        public IActionResult Update(Category category) {
+        public IActionResult Update(Category obj) {
             if (ModelState.IsValid)
             {
               
-                _productRepo.Update(category);
-                _productRepo.Save();
-                return RedirectToAction("Add");   
+                _CategoryRepo.Update(obj);
+                _CategoryRepo.Save();
+                return RedirectToAction("Index");   
 
             }
             
@@ -80,15 +77,15 @@ namespace Dotnet_Mvc.Areas.Admin.Controllers
         public IActionResult Delete(int? id) { 
             if (id!=null)
             {
-                Category category = _productRepo.Get(product=>product.Id == id);    
+                Category category = _CategoryRepo.Get(Category=>Category.Id == id);    
                 if (category != null) 
                 {
-                    _productRepo.Remove(category);  
-                    _productRepo.Save();
+                    _CategoryRepo.Remove(category);  
+                    _CategoryRepo.Save();
                   
                 }
             }
-            return RedirectToAction("Add");
+            return RedirectToAction("Index");
 
         }
     }

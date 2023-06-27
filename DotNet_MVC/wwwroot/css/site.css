@@ -25,7 +25,8 @@ a{
 
         .product-grid .product-image img {
             width: 100%;
-            height: auto;
+            height: 300px;
+            object-fit:contain;
         }
 
     .product-grid .product-discount-label {

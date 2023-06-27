@@ -1,5 +1,6 @@
 ﻿using Dotnet_Mvc.DataAccess.Data;
 using Dotnet_Mvc.DataAccess.Repository.IRepositroy;
+using DotNet_Mvc.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -17,6 +18,7 @@ namespace Dotnet_Mvc.DataAccess.Repository
         public Repoistory(ApplicationDbContext db) {
             _context = db;
             this.dbSet =_context.Set<T>();
+            _context.Products.Include(u => u.Category).Include(u=>u.CategoryId);
             //_db.UserProfile=dbSet
         
         }
@@ -26,18 +28,34 @@ namespace Dotnet_Mvc.DataAccess.Repository
             
         }
 
-        public T Get(Expression<Func<T, bool>> filter)
+        public T Get(Expression<Func<T, bool>> filter, string? includeProperties = null)
         {
             IQueryable<T> query = dbSet;
+            if (!string.IsNullOrEmpty(includeProperties))
+            {
+                foreach (var includeProperty in includeProperties.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
+                {
+
+                    query = query.Include(includeProperty);
+                }
+            }
             query = query.Where(filter);
             return query.FirstOrDefault();
 
            
         }
-
-        public IEnumerable<T> GetAll()
+        //Category,Cover Type
+        public IEnumerable<T> GetAll(string ? includeProperties = null)
         {
+         
           IQueryable<T> query = dbSet;
+        if(!string.IsNullOrEmpty(includeProperties))
+            {
+                foreach(var includeProperty in includeProperties.Split(new char[] { ','},StringSplitOptions.RemoveEmptyEntries)) {
+                  
+                   query =query.Include(includeProperty);
+                }
+            }
             return query.ToList();
         }
 

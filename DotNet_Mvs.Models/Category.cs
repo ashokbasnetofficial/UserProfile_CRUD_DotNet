@@ -17,13 +17,9 @@ namespace DotNet_Mvc.Models
         [MinLength(1)]
         public string Name { get; set; }
         [Required]
-        [MinLength(10)]
-        [DisplayName("Description")]
-        public string Description { get; set; }
-        [Required]
-        [Range(1, int.MaxValue)]
-        [DisplayName("Price")]
-        public int Price { get; set; }
+        [Range(1,1000)]
+        [DisplayName("Display Order")]
+        public int DisplayOrder { get; set; }
 
     }
 }
