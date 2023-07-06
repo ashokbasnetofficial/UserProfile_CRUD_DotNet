@@ -7,11 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dotnet_Mvc", "Dotnet_Mvc\Do
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Razor_Web_App", "Razor_Web_App\Razor_Web_App.csproj", "{62F931E7-842E-49C7-AA93-9D76C616943F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet_Mvc.DataAccess", "Dotnet_Mvc.DataAccess\Dotnet_Mvc.DataAccess.csproj", "{B66D19FE-6599-40EC-9200-4E5A1EDCDE5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dotnet_Mvc.DataAccess", "Dotnet_Mvc.DataAccess\Dotnet_Mvc.DataAccess.csproj", "{B66D19FE-6599-40EC-9200-4E5A1EDCDE5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet_Mvc.Models", "DotNet_Mvs.Models\DotNet_Mvc.Models.csproj", "{522C15AE-A4CD-4C6B-B99B-8D3272074CC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet_Mvc.Models", "DotNet_Mvs.Models\DotNet_Mvc.Models.csproj", "{522C15AE-A4CD-4C6B-B99B-8D3272074CC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet_Mvc.Utility", "DotNet_Mvc.Utility\DotNet_Mvc.Utility.csproj", "{6B78BA8F-E60C-4CFD-A22B-7AA88132CA48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet_Mvc.Utility", "DotNet_Mvc.Utility\DotNet_Mvc.Utility.csproj", "{6B78BA8F-E60C-4CFD-A22B-7AA88132CA48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

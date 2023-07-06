@@ -11,6 +11,7 @@ namespace DotNet_Mvc.Models.ViewModels
     public class ProductVM
     {
         public Products Product { get; set; }
+
         [ValidateNever]
         public IEnumerable<SelectListItem> CategoryList { get; set; }
     }

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DotNet_MVC",
+    "\\DotNet_MVC\\Areas",
+    "\\DotNet_MVC\\Areas\\Admin",
+    "\\DotNet_MVC\\Areas\\Admin\\Views",
+    "\\DotNet_MVC\\Areas\\Admin\\Views\\Product",
+    "\\DotNet_MVC\\Views",
+    "\\DotNet_MVC\\Views\\Shared",
+    "\\DotNet_MVC\\wwwroot",
+    "\\DotNet_MVC\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\DotNet_MVC\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+  "PreviewInSolutionExplorer": false
+}

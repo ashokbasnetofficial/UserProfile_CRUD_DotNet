@@ -17,3 +17,22 @@ E:\Dotnet\Dotnet_Mvc.DataAccess\obj\Debug\net7.0\refint\Dotnet_Mvc.DataAccess.dl
 E:\Dotnet\Dotnet_Mvc.DataAccess\obj\Debug\net7.0\Dotnet_Mvc.DataAccess.pdb
 E:\Dotnet\Dotnet_Mvc.DataAccess\obj\Debug\net7.0\Dotnet_Mvc.DataAccess.genruntimeconfig.cache
 E:\Dotnet\Dotnet_Mvc.DataAccess\obj\Debug\net7.0\ref\Dotnet_Mvc.DataAccess.dll
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\Dotnet_Mvc.DataAccess\bin\Debug\net7.0\Dotnet_Mvc.DataAccess.deps.json
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\Dotnet_Mvc.DataAccess\bin\Debug\net7.0\Dotnet_Mvc.DataAccess.runtimeconfig.json
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\Dotnet_Mvc.DataAccess\bin\Debug\net7.0\Dotnet_Mvc.DataAccess.dll
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\Dotnet_Mvc.DataAccess\bin\Debug\net7.0\Dotnet_Mvc.DataAccess.pdb
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\Dotnet_Mvc.DataAccess\bin\Debug\net7.0\DotNet_Mvc.Models.dll
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\Dotnet_Mvc.DataAccess\bin\Debug\net7.0\DotNet_Mvc.Utility.dll
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\Dotnet_Mvc.DataAccess\bin\Debug\net7.0\DotNet_Mvc.Utility.pdb
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\Dotnet_Mvc.DataAccess\bin\Debug\net7.0\DotNet_Mvc.Models.pdb
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\Dotnet_Mvc.DataAccess\obj\Debug\net7.0\Dotnet_Mvc.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\Dotnet_Mvc.DataAccess\obj\Debug\net7.0\Dotnet_Mvc.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\Dotnet_Mvc.DataAccess\obj\Debug\net7.0\Dotnet_Mvc.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\Dotnet_Mvc.DataAccess\obj\Debug\net7.0\Dotnet_Mvc.DataAccess.AssemblyInfo.cs
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\Dotnet_Mvc.DataAccess\obj\Debug\net7.0\Dotnet_Mvc.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\Dotnet_Mvc.DataAccess\obj\Debug\net7.0\Dotnet_Mvc.DataAccess.csproj.CopyComplete
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\Dotnet_Mvc.DataAccess\obj\Debug\net7.0\Dotnet_Mvc.DataAccess.dll
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\Dotnet_Mvc.DataAccess\obj\Debug\net7.0\refint\Dotnet_Mvc.DataAccess.dll
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\Dotnet_Mvc.DataAccess\obj\Debug\net7.0\Dotnet_Mvc.DataAccess.pdb
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\Dotnet_Mvc.DataAccess\obj\Debug\net7.0\Dotnet_Mvc.DataAccess.genruntimeconfig.cache
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\Dotnet_Mvc.DataAccess\obj\Debug\net7.0\ref\Dotnet_Mvc.DataAccess.dll

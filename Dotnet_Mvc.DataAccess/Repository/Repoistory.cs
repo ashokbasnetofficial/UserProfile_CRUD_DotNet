@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 namespace Dotnet_Mvc.DataAccess.Repository
 {
     public class Repoistory<T> : IRepository<T> where T : class
-    { 
+    {
         private readonly ApplicationDbContext _context;
         internal DbSet<T> dbSet;
         public Repoistory(ApplicationDbContext db) {

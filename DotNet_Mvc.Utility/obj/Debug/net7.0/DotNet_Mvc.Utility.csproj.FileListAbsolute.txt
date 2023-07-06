@@ -10,3 +10,15 @@ E:\DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\DotNet_Mvc.Utility.dll
 E:\DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\refint\DotNet_Mvc.Utility.dll
 E:\DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\DotNet_Mvc.Utility.pdb
 E:\DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\ref\DotNet_Mvc.Utility.dll
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvc.Utility\bin\Debug\net7.0\DotNet_Mvc.Utility.deps.json
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvc.Utility\bin\Debug\net7.0\DotNet_Mvc.Utility.dll
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvc.Utility\bin\Debug\net7.0\DotNet_Mvc.Utility.pdb
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\DotNet_Mvc.Utility.csproj.AssemblyReference.cache
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\DotNet_Mvc.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\DotNet_Mvc.Utility.AssemblyInfoInputs.cache
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\DotNet_Mvc.Utility.AssemblyInfo.cs
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\DotNet_Mvc.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\DotNet_Mvc.Utility.dll
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\refint\DotNet_Mvc.Utility.dll
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\DotNet_Mvc.Utility.pdb
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvc.Utility\obj\Debug\net7.0\ref\DotNet_Mvc.Utility.dll

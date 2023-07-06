@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Dotnet\\Dotnet_Mvc\\Dotnet_Mvc.csproj": {}
+    "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\Dotnet_Mvc.csproj": {}
   },
   "projects": {
-    "E:\\Dotnet\\Dotnet_Mvc.DataAccess\\Dotnet_Mvc.DataAccess.csproj": {
+    "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc.DataAccess\\Dotnet_Mvc.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Dotnet\\Dotnet_Mvc.DataAccess\\Dotnet_Mvc.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc.DataAccess\\Dotnet_Mvc.DataAccess.csproj",
         "projectName": "Dotnet_Mvc.DataAccess",
-        "projectPath": "E:\\Dotnet\\Dotnet_Mvc.DataAccess\\Dotnet_Mvc.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\97798\\.nuget\\packages\\",
-        "outputPath": "E:\\Dotnet\\Dotnet_Mvc.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc.DataAccess\\Dotnet_Mvc.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Pratham IT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\97798\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pratham IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\Dotnet\\DotNet_Mvc.Utility\\DotNet_Mvc.Utility.csproj": {
-                "projectPath": "E:\\Dotnet\\DotNet_Mvc.Utility\\DotNet_Mvc.Utility.csproj"
+              "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_Mvc.Utility\\DotNet_Mvc.Utility.csproj": {
+                "projectPath": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_Mvc.Utility\\DotNet_Mvc.Utility.csproj"
               },
-              "E:\\Dotnet\\DotNet_Mvs.Models\\DotNet_Mvc.Models.csproj": {
-                "projectPath": "E:\\Dotnet\\DotNet_Mvs.Models\\DotNet_Mvc.Models.csproj"
+              "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_Mvs.Models\\DotNet_Mvc.Models.csproj": {
+                "projectPath": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_Mvs.Models\\DotNet_Mvc.Models.csproj"
               }
             }
           }
@@ -47,6 +47,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.0, )"
@@ -78,21 +82,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Dotnet\\DotNet_Mvc.Utility\\DotNet_Mvc.Utility.csproj": {
+    "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_Mvc.Utility\\DotNet_Mvc.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Dotnet\\DotNet_Mvc.Utility\\DotNet_Mvc.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_Mvc.Utility\\DotNet_Mvc.Utility.csproj",
         "projectName": "DotNet_Mvc.Utility",
-        "projectPath": "E:\\Dotnet\\DotNet_Mvc.Utility\\DotNet_Mvc.Utility.csproj",
-        "packagesPath": "C:\\Users\\97798\\.nuget\\packages\\",
-        "outputPath": "E:\\Dotnet\\DotNet_Mvc.Utility\\obj\\",
+        "projectPath": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_Mvc.Utility\\DotNet_Mvc.Utility.csproj",
+        "packagesPath": "C:\\Users\\Pratham IT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_Mvc.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\97798\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pratham IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -117,6 +121,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -133,21 +143,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Dotnet\\Dotnet_Mvc\\Dotnet_Mvc.csproj": {
+    "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\Dotnet_Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Dotnet\\Dotnet_Mvc\\Dotnet_Mvc.csproj",
+        "projectUniqueName": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\Dotnet_Mvc.csproj",
         "projectName": "Dotnet_Mvc",
-        "projectPath": "E:\\Dotnet\\Dotnet_Mvc\\Dotnet_Mvc.csproj",
-        "packagesPath": "C:\\Users\\97798\\.nuget\\packages\\",
-        "outputPath": "E:\\Dotnet\\Dotnet_Mvc\\obj\\",
+        "projectPath": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\Dotnet_Mvc.csproj",
+        "packagesPath": "C:\\Users\\Pratham IT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\97798\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pratham IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -155,15 +165,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\Dotnet\\Dotnet_Mvc.DataAccess\\Dotnet_Mvc.DataAccess.csproj": {
-                "projectPath": "E:\\Dotnet\\Dotnet_Mvc.DataAccess\\Dotnet_Mvc.DataAccess.csproj"
+              "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc.DataAccess\\Dotnet_Mvc.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc.DataAccess\\Dotnet_Mvc.DataAccess.csproj"
               }
             }
           }
@@ -178,6 +188,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.0, )"
@@ -216,21 +230,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Dotnet\\DotNet_Mvs.Models\\DotNet_Mvc.Models.csproj": {
+    "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_Mvs.Models\\DotNet_Mvc.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Dotnet\\DotNet_Mvs.Models\\DotNet_Mvc.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_Mvs.Models\\DotNet_Mvc.Models.csproj",
         "projectName": "DotNet_Mvc.Models",
-        "projectPath": "E:\\Dotnet\\DotNet_Mvs.Models\\DotNet_Mvc.Models.csproj",
-        "packagesPath": "C:\\Users\\97798\\.nuget\\packages\\",
-        "outputPath": "E:\\Dotnet\\DotNet_Mvs.Models\\obj\\",
+        "projectPath": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_Mvs.Models\\DotNet_Mvc.Models.csproj",
+        "packagesPath": "C:\\Users\\Pratham IT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_Mvs.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\97798\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pratham IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -256,6 +270,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.AspNetCore.Mvc.ViewFeatures": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -277,7 +295,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

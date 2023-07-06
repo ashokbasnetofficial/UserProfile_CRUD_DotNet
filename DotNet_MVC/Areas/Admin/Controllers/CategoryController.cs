@@ -1,6 +1,8 @@
-﻿using Dotnet_Mvc.DataAccess.Data;
+﻿using AutoMapper;
+using Dotnet_Mvc.DataAccess.Data;
 using Dotnet_Mvc.DataAccess.Repository.IRepositroy;
 using DotNet_Mvc.Models;
+using DotNet_Mvc.Models.Dto;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ActionConstraints;
 
@@ -13,9 +15,12 @@ namespace Dotnet_Mvc.Areas.Admin.Controllers
 
     {
         private readonly ICategoryRepository _CategoryRepo;
-        public CategoryController(ICategoryRepository db)
+        private readonly IMapper _mapper;
+        public CategoryController(ICategoryRepository db,
+            IMapper mapper)
         {
             _CategoryRepo = db;
+            _mapper = mapper;
         }
       
         public IActionResult Index()
@@ -29,18 +34,21 @@ namespace Dotnet_Mvc.Areas.Admin.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Create(Category obj)
+        public async Task <IActionResult> Create(Category obj)
         {
-            if(ModelState.IsValid)
-            {
-
-            _CategoryRepo.Add(obj);
-             _CategoryRepo.Save();
-
-
+            //if(ModelState.IsValid)
+            //{
+            //    var dto = new CategoryDto()
+            //    {
+            //        Id = obj.Id,
+            //        Name = obj.Name,
+            //        DisplayOrder = obj.DisplayOrder,
+            //    };
+            CategoryDto dto=_mapper.Map<CategoryDto>(obj);
+                await _CategoryRepo.Add(dto);
+                 _CategoryRepo.Save();
             return RedirectToAction("Index");
-
-            }
+            //}
             return View();
 
         }

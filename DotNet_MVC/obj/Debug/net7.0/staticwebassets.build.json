@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fegjeH0b5Bca2eKJtBurwgQmwnT7rK35REWmmtO0Y1I=",
+  "Hash": "fO1gMOgiJ8JpwlQBwrrWX7Xn29vWXe6U3ai+NqKu4qg=",
   "Source": "Dotnet_Mvc",
   "BasePath": "_content/Dotnet_Mvc",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Dotnet_Mvc\\wwwroot",
       "Source": "Dotnet_Mvc",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Dotnet_Mvc.styles.css",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Dotnet_Mvc.styles.css",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "Dotnet_Mvc.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Dotnet\\Dotnet_Mvc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Dotnet_Mvc.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Dotnet_Mvc.styles.css"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Dotnet_Mvc.bundle.scp.css",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Dotnet_Mvc.bundle.scp.css",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "Dotnet_Mvc.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Dotnet\\Dotnet_Mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Dotnet_Mvc.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Dotnet_Mvc.bundle.scp.css"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\css\\site.css",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\favicon.ico",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\images\\product\\0204e2f4-d225-49fd-8781-fb612447cde9.jpg",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\images\\product\\0204e2f4-d225-49fd-8781-fb612447cde9.jpg",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "images/product/0204e2f4-d225-49fd-8781-fb612447cde9.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\0204e2f4-d225-49fd-8781-fb612447cde9.jpg"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\images\\product\\13ef18fc-2d8b-41fe-aeb2-5dcc4c7b74e5.jpeg",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\images\\product\\13ef18fc-2d8b-41fe-aeb2-5dcc4c7b74e5.jpeg",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "images/product/13ef18fc-2d8b-41fe-aeb2-5dcc4c7b74e5.jpeg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\13ef18fc-2d8b-41fe-aeb2-5dcc4c7b74e5.jpeg"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\images\\product\\27df423c-eb37-4681-93e9-c76db043df9d.jpeg",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\images\\product\\27df423c-eb37-4681-93e9-c76db043df9d.jpeg",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "images/product/27df423c-eb37-4681-93e9-c76db043df9d.jpeg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\27df423c-eb37-4681-93e9-c76db043df9d.jpeg"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\images\\product\\2e86ff4b-3887-4464-9261-3deced175e24.jpeg",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\images\\product\\2e86ff4b-3887-4464-9261-3deced175e24.jpeg",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "images/product/2e86ff4b-3887-4464-9261-3deced175e24.jpeg",
       "AssetKind": "All",
@@ -153,10 +153,44 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\2e86ff4b-3887-4464-9261-3deced175e24.jpeg"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\images\\product\\a3a6c1cb-00fd-41b6-b873-1dc918d5ec17.webp",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\images\\product\\7200516a-d6aa-4a6b-9f01-a381449abd45.webp",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
+      "BasePath": "_content/Dotnet_Mvc",
+      "RelativePath": "images/product/7200516a-d6aa-4a6b-9f01-a381449abd45.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\7200516a-d6aa-4a6b-9f01-a381449abd45.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\images\\product\\9a795761-dead-4953-acae-f24e8f7a5880.jpg",
+      "SourceId": "Dotnet_Mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
+      "BasePath": "_content/Dotnet_Mvc",
+      "RelativePath": "images/product/9a795761-dead-4953-acae-f24e8f7a5880.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\9a795761-dead-4953-acae-f24e8f7a5880.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\images\\product\\a3a6c1cb-00fd-41b6-b873-1dc918d5ec17.webp",
+      "SourceId": "Dotnet_Mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "images/product/a3a6c1cb-00fd-41b6-b873-1dc918d5ec17.webp",
       "AssetKind": "All",
@@ -170,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\a3a6c1cb-00fd-41b6-b873-1dc918d5ec17.webp"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\images\\product\\b2d2bbac-4d6b-4b6b-a354-2643d39e8ba3.webp",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\images\\product\\b2d2bbac-4d6b-4b6b-a354-2643d39e8ba3.webp",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "images/product/b2d2bbac-4d6b-4b6b-a354-2643d39e8ba3.webp",
       "AssetKind": "All",
@@ -187,10 +221,27 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\b2d2bbac-4d6b-4b6b-a354-2643d39e8ba3.webp"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\images\\product\\cd1348c4-aa31-4618-9582-bfae4e519e52.jpg",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\images\\product\\bf74b4b6-c449-44ac-bd49-f222adcf0058.png",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
+      "BasePath": "_content/Dotnet_Mvc",
+      "RelativePath": "images/product/bf74b4b6-c449-44ac-bd49-f222adcf0058.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\bf74b4b6-c449-44ac-bd49-f222adcf0058.png"
+    },
+    {
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\images\\product\\cd1348c4-aa31-4618-9582-bfae4e519e52.jpg",
+      "SourceId": "Dotnet_Mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "images/product/cd1348c4-aa31-4618-9582-bfae4e519e52.jpg",
       "AssetKind": "All",
@@ -204,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\cd1348c4-aa31-4618-9582-bfae4e519e52.jpg"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\js\\handletable.js",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\js\\handletable.js",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "js/handletable.js",
       "AssetKind": "All",
@@ -221,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\js\\handletable.js"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\js\\site.js",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -238,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -255,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -272,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -289,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -306,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -323,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -391,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -408,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -425,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -442,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -459,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -476,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -493,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -510,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -527,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -544,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -561,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -578,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -595,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -612,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -629,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -663,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -680,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -697,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -714,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -731,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -748,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -765,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -782,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -799,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -816,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -833,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -850,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -867,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -884,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -901,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -918,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -935,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -952,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -969,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -986,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1003,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1020,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1037,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1054,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1071,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1088,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1105,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1122,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1139,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1156,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1173,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1190,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Dotnet_Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\DotNet_MVC\\wwwroot\\",
       "BasePath": "_content/Dotnet_Mvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

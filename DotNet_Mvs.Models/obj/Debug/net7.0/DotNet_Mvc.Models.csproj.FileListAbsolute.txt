@@ -10,3 +10,15 @@ E:\DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\DotNet_Mvc.Models.dll
 E:\DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\refint\DotNet_Mvc.Models.dll
 E:\DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\DotNet_Mvc.Models.pdb
 E:\DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\ref\DotNet_Mvc.Models.dll
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvs.Models\bin\Debug\net7.0\DotNet_Mvc.Models.deps.json
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvs.Models\bin\Debug\net7.0\DotNet_Mvc.Models.dll
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvs.Models\bin\Debug\net7.0\DotNet_Mvc.Models.pdb
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\DotNet_Mvc.Models.csproj.AssemblyReference.cache
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\DotNet_Mvc.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\DotNet_Mvc.Models.AssemblyInfoInputs.cache
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\DotNet_Mvc.Models.AssemblyInfo.cs
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\DotNet_Mvc.Models.csproj.CoreCompileInputs.cache
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\DotNet_Mvc.Models.dll
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\refint\DotNet_Mvc.Models.dll
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\DotNet_Mvc.Models.pdb
+C:\Users\Pratham IT\Source\Repos\ashokbasnetofficial\UserProfile_CRUD_DotNet\DotNet_Mvs.Models\obj\Debug\net7.0\ref\DotNet_Mvc.Models.dll

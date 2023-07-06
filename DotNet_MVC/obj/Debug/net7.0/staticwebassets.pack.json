@@ -1,279 +1,291 @@
 {
   "Files": [
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Dotnet_Mvc.bundle.scp.css",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Dotnet_Mvc.bundle.scp.css",
       "PackagePath": "staticwebassets\\Dotnet_Mvc.bundle.scp.css"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\images\\product\\0204e2f4-d225-49fd-8781-fb612447cde9.jpg",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\images\\product\\0204e2f4-d225-49fd-8781-fb612447cde9.jpg",
       "PackagePath": "staticwebassets\\images\\product\\0204e2f4-d225-49fd-8781-fb612447cde9.jpg"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\images\\product\\13ef18fc-2d8b-41fe-aeb2-5dcc4c7b74e5.jpeg",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\images\\product\\13ef18fc-2d8b-41fe-aeb2-5dcc4c7b74e5.jpeg",
       "PackagePath": "staticwebassets\\images\\product\\13ef18fc-2d8b-41fe-aeb2-5dcc4c7b74e5.jpeg"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\images\\product\\27df423c-eb37-4681-93e9-c76db043df9d.jpeg",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\images\\product\\27df423c-eb37-4681-93e9-c76db043df9d.jpeg",
       "PackagePath": "staticwebassets\\images\\product\\27df423c-eb37-4681-93e9-c76db043df9d.jpeg"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\images\\product\\2e86ff4b-3887-4464-9261-3deced175e24.jpeg",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\images\\product\\2e86ff4b-3887-4464-9261-3deced175e24.jpeg",
       "PackagePath": "staticwebassets\\images\\product\\2e86ff4b-3887-4464-9261-3deced175e24.jpeg"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\images\\product\\a3a6c1cb-00fd-41b6-b873-1dc918d5ec17.webp",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\images\\product\\7200516a-d6aa-4a6b-9f01-a381449abd45.webp",
+      "PackagePath": "staticwebassets\\images\\product\\7200516a-d6aa-4a6b-9f01-a381449abd45.webp"
+    },
+    {
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\images\\product\\9a795761-dead-4953-acae-f24e8f7a5880.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\9a795761-dead-4953-acae-f24e8f7a5880.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\images\\product\\a3a6c1cb-00fd-41b6-b873-1dc918d5ec17.webp",
       "PackagePath": "staticwebassets\\images\\product\\a3a6c1cb-00fd-41b6-b873-1dc918d5ec17.webp"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\images\\product\\b2d2bbac-4d6b-4b6b-a354-2643d39e8ba3.webp",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\images\\product\\b2d2bbac-4d6b-4b6b-a354-2643d39e8ba3.webp",
       "PackagePath": "staticwebassets\\images\\product\\b2d2bbac-4d6b-4b6b-a354-2643d39e8ba3.webp"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\images\\product\\cd1348c4-aa31-4618-9582-bfae4e519e52.jpg",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\images\\product\\bf74b4b6-c449-44ac-bd49-f222adcf0058.png",
+      "PackagePath": "staticwebassets\\images\\product\\bf74b4b6-c449-44ac-bd49-f222adcf0058.png"
+    },
+    {
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\images\\product\\cd1348c4-aa31-4618-9582-bfae4e519e52.jpg",
       "PackagePath": "staticwebassets\\images\\product\\cd1348c4-aa31-4618-9582-bfae4e519e52.jpg"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\js\\handletable.js",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\js\\handletable.js",
       "PackagePath": "staticwebassets\\js\\handletable.js"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\Dotnet\\Dotnet_Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Pratham IT\\Source\\Repos\\ashokbasnetofficial\\UserProfile_CRUD_DotNet\\Dotnet_Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
